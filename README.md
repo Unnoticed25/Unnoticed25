@@ -20,22 +20,9 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
-## 💾 Терминальная сессия
-
-```terminal
-$ git clone https://github.com/Unnoticed25/skills.git
-Cloning into 'skills'...
-remote: Enumerating objects: 42, done.
-remote: Counting objects: 100% (42/42), done.
-Unpacking objects: 100% (42/42), 3.14 MB | 1.21 MB/s, done.
-
-$ cd skills && npm install
-✔ React 18.2.0
-✔ TypeScript 4.9.5
-✔ Redux Toolkit 1.9.3
-
-$ npm start
-Dev server started at http://localhost:3000
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Мой%20стек&lineCount=2&line1=React,TypeScript,Redux,Electron&line2=Unity,CSharp,PHP,Drupal&theme=merko" />
+</div>
 
 ## ✨ Интересный факт  
 Люблю совмещать **креативность и логику** — поэтому веб и геймдев идеально подходят!  
