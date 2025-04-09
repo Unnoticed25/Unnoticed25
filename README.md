@@ -20,10 +20,17 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
-## 📈 Статистика GitHub  
+## 🛠️ Мой технологический стек
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unnoticed25&show_icons=true&theme=radical)](https://github.com/Unnoticed25)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnoticed25&layout=compact&theme=radical)](https://github.com/Unnoticed25E)  
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
+  
+</div>
 
 ## ✨ Интересный факт  
 Люблю совмещать **креативность и логику** — поэтому веб и геймдев идеально подходят!  
