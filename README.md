@@ -4,7 +4,7 @@
 💻 Создаю интерактивные и производительные веб-приложения   
 
 <div align="center">
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" style="animation: spin 4s linear infinite; pointer-events: none;" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" style="animation: spin 4s linear infinite;" />
 
   ![React](https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=4000&color=61DAFB&width=200&lines=React+Developer;Props+Master;Hooks+Wizard&center=true)
 </div>
