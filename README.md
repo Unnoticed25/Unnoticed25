@@ -22,7 +22,6 @@
 
 ## 🎮 Уровни прокачки навыков
 
-```html
 <div align="center">
   
 ![React](https://progress-bar.dev/85/?title=React&width=300&color=61DAFB)
