@@ -20,16 +20,22 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
-## 🎮 Уровни прокачки навыков
+## 💾 Терминальная сессия
 
-<div align="center">
-  
-![React](https://progress-bar.dev/85/?title=React&width=300&color=61DAFB)
-![TypeScript](https://progress-bar.dev/80/?title=TypeScript&width=300&color=3178C6)
-![Unity](https://progress-bar.dev/75/?title=Unity&width=300&color=000000)
-![Electron](https://progress-bar.dev/65/?title=Electron&width=300&color=47848F)
+```terminal
+$ git clone https://github.com/Unnoticed25/skills.git
+Cloning into 'skills'...
+remote: Enumerating objects: 42, done.
+remote: Counting objects: 100% (42/42), done.
+Unpacking objects: 100% (42/42), 3.14 MB | 1.21 MB/s, done.
 
-</div>
+$ cd skills && npm install
+✔ React 18.2.0
+✔ TypeScript 4.9.5
+✔ Redux Toolkit 1.9.3
+
+$ npm start
+Dev server started at http://localhost:3000
 
 ## ✨ Интересный факт  
 Люблю совмещать **креативность и логику** — поэтому веб и геймдев идеально подходят!  
