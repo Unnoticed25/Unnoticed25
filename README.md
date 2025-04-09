@@ -20,17 +20,12 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
-## 🎨 CSS Art (живой пример)
+## ⚛️ Анимированный React
 
 <div align="center">
-  <div style="
-    width: 100px;
-    height: 100px;
-    background: conic-gradient(#61DAFB, #3178C6, #764ABC, #000000);
-    border-radius: 50%;
-    animation: spin 2s linear infinite;
-    margin: 0 auto;">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" style="animation: spin 4s linear infinite;" />
+
+  ![React](https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=4000&color=61DAFB&width=200&lines=React+Developer;Props+Master;Hooks+Wizard&center=true)
 </div>
 
 ## ✨ Интересный факт  
