@@ -20,8 +20,17 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
+## 🎨 CSS Art (живой пример)
+
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Мой%20стек&lineCount=2&line1=React,TypeScript,Redux,Electron&line2=Unity,CSharp,PHP,Drupal&theme=merko" />
+  <div style="
+    width: 100px;
+    height: 100px;
+    background: conic-gradient(#61DAFB, #3178C6, #764ABC, #000000);
+    border-radius: 50%;
+    animation: spin 2s linear infinite;
+    margin: 0 auto;">
+  </div>
 </div>
 
 ## ✨ Интересный факт  
