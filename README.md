@@ -20,16 +20,16 @@
 - Экспериментирую с новыми технологиями и фреймворками  
 - Оптимизирую производительность и UX  
 
-## 🛠️ Мой технологический стек
+## 🎮 Уровни прокачки навыков
 
+```html
 <div align="center">
   
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
-  
+![React](https://progress-bar.dev/85/?title=React&width=300&color=61DAFB)
+![TypeScript](https://progress-bar.dev/80/?title=TypeScript&width=300&color=3178C6)
+![Unity](https://progress-bar.dev/75/?title=Unity&width=300&color=000000)
+![Electron](https://progress-bar.dev/65/?title=Electron&width=300&color=47848F)
+
 </div>
 
 ## ✨ Интересный факт  
